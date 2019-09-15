@@ -1,3 +1,3 @@
 # README
 
-My playground to test Rails 🥰
+My lab to play around with Rails 🥰
